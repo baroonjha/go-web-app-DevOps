@@ -8,7 +8,7 @@ image:
   repository: baroon/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10043522333"
+  tag: "10044202175"
 
 imagePullSecrets: []
 nameOverride: ""
